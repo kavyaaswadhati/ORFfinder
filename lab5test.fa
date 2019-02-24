@@ -1,0 +1,34 @@
+>test
+ATGATGTAA
+>test2
+AATGATGTAA
+>test3
+AAATGATGTAA
+
+>test-1
+TTA CAT CAT
+
+>test-2
+TTA CAT CAT A
+
+>test-3
+TTA CAT CAT AA
+
+>test1A
+ATGATGTAAA
+>test2A
+AATGATGTAAA
+>test3A
+AAATGATGTAAA
+
+>test-1A
+A TTA CAT CAT
+
+>test-2A
+AA TTA CAT CAT A
+
+>test-3A
+AA TTA CAT CAT AA
+
+
+
